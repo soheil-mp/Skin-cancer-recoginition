@@ -1,0 +1,49 @@
+
+Create a plan for your A/B test! Ensure your entire test plan can be conducted in roughly 6 minutes: 4 minutes for the actual user test and 2 minutes for the survey. 
+
+--------------------------------------------------------------------------------------------------------------
+Preparation:
+
+- Confirm a location at the university where students can comfortably use the app and complete the survey.
+- Ensure both versions of the app are fully functional and only differ in the image assistance feature.
+
+--------------------------------------------------------------------------------------------------------------
+
+A/B Test Plan:
+
+1. Introduction (30 seconds)
+    - Introduce the test and its objective.
+    - Randomly assign students to Version A or B.
+
+2. Task Execution (4 minutes)
+    - Direct participants to take a skin image using the app.
+    - Monitor the process to ensure adherence to the 4-minute limit.
+    - Links:
+        A/B Test Form (Version A): https://www.figma.com/file/CPcWSRS9LBVZC0Fop2KHZz/Image-Classification-App-UI?type=design&node-id=153%3A885&mode=design&t=MLdQjxFkaxGE8QfK-1
+        A/B Test Form (Version B): https://www.figma.com/file/CPcWSRS9LBVZC0Fop2KHZz/Image-Classification-App-UI?type=design&node-id=153%3A757&mode=design&t=MLdQjxFkaxGE8QfK-1
+
+3. Survey Completion (1 minute and 30 seconds)
+    - Generate two surveys titled "AB-test_HCAI_Version_A" and "AB-test_HCAI_Version_B" using Microsoft Teams or an alternative platform.
+    - Links:
+        A/B Test Form (Version A): https://forms.office.com/e/nJBfjFgeek
+        A/B Test Form (Version B): https://forms.office.com/e/9iHF9LwZBV
+    - Include the five Likert scale questions as provided, with the fifth question tailored to the image assistance feature: "The on-screen guidance helped me take a better picture."
+    - Pre-test the surveys and ensure they are self-explanatory.
+    - Create QR codes for each survey and include them in the "A/B Test plan" document for easy access.
+
+4. Survey Distribution (30 seconds)
+    - After completing the task, participants scan the appropriate QR code to access and complete the survey for the version they tested.
+    - Remind them that quick and honest responses are valuable.
+
+5. Debrief (Immediate following survey)
+    - Thank the participants for their time.
+    - Explain how their input will contribute to the app’s development.
+
+--------------------------------------------------------------------------------------------------------------
+
+Post-Test:
+    - Collect survey responses and analyze the data, focusing on differences in user understanding, intuitiveness, usefulness, and enjoyment, as well as the specific feedback on the image assistance feature.
+    - Conclude which version provided a better user experience based on the data.
+    - Store all findings and data in the "A/B Test plan" file for reference and future actions.
+
+
