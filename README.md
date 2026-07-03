@@ -5,4 +5,4 @@ An AI-powered image classifier for skin lesions could revolutionize dermatologic
 
 Demo of the app:
 
-<img src="https://raw.githubusercontent.com/soheil-mp/Skin-cancer-recoginition/3b0d8aa1083382c443f90f2fcba71bffa2dbeaf0//assets/2.%20wireframe%20(second%20iteration).png">
+<img src="archived/Assets/result.png">
